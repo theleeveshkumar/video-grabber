@@ -38,7 +38,7 @@ def download_video(url):
         return None, None, None, None, None, None, None
 
 # Streamlit interface
-st.title("Automated YouTube Video Downloader")
+st.title("Video Grabber")
 st.write("Enter a YouTube link to download the video with audio at 480p (if available).")
 
 url = st.text_input("Enter YouTube Video URL")
