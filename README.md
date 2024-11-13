@@ -71,6 +71,8 @@ Once you input the YouTube URL and click "Download Video", the app will show a p
 ---
 
 ### Screenshots:
+![image](https://github.com/user-attachments/assets/925f0134-bf10-4aa0-ad4a-ea99465d830d)
+![image](https://github.com/user-attachments/assets/a7a6a9ae-6cfa-4a7e-89c8-1a2f9943a9f7)
 
 ---
 
