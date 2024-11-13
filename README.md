@@ -28,7 +28,7 @@ pip install yt-dlp streamlit
 ### Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/yt-video-downloader.git
+   git clone https://github.com/theleeveshkumar/yt-video-downloader.git
    ```
 2. Navigate into the project folder:
    ```bash
